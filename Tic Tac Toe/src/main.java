@@ -2,6 +2,6 @@
 public class main {
 	public static void main(String[] args)
 	 {
-		 new TTT();
+		 new VipinTTT();
 	 }
 }
