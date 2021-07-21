@@ -2,7 +2,7 @@ import java.awt.*;
 import javax.swing.*;
 import java.util.*;
 import java.awt.event.*;
-public class TTT implements ActionListener  {
+public class VipinTTT implements ActionListener  {
 	private int flag;
     Random random= new Random();
     JFrame frame = new JFrame();
