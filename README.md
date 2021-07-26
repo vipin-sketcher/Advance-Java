@@ -9,7 +9,7 @@ I'm pursing my BTech from Hindu College of Engineering, Sonipat.
 
 
 
-How can you reach out ot me:
+How can you reach out to me:
 Email: vipin.singh09055@gmail.com
 LinkedIn:https://www.linkedin.com/in/vipin-singh-2080431b7/
 
